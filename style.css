@@ -8,6 +8,7 @@
     --botao-inativo: rgba(58, 55, 94, 0.5);
     --texto-fundo: rgba(58, 55, 94, 0.3);
 }
+
 body {
     background-color: var(--cor-de-fundo);
     color: var(--branco);
@@ -21,4 +22,27 @@ body {
     max-width: 1200px
     width: 100%;
     margin: 0 auto;
+}
+.titulo-prncipal {
+    text-align:left;
+    width:100%;a\
+    font:size:32px;
+{
+.titulo-principal span{
+    color:var(--verde);
+}
+.botao {
+    font-family: "Chakra Petch",sans-serf;
+    blockground-color: Var(--botao-inativo);
+    color: Var(--branco);
+    display:flex;
+    justify-content: center;
+    padding: 1em;
+    font-size: 18px;
+    align-items: center;
+    widht: 100%
+boeder-bottom: ;
+    border-left: ;
+    border-rigth;: ;
+    border-top: ;
 }
