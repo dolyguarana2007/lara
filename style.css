@@ -41,8 +41,24 @@ body {
     font-size: 18px;
     align-items: center;
     widht: 100%
-boeder-bottom: ;
-    border-left: ;
-    border-rigth;: ;
-    border-top: ;
+    border-bottom: 4px solid var(--botoao-ativo);
+    border-left: px solid var(--botao-ativo);
+    border-rigth: 2px solid var(--botao-ativo)
+    border-top:nome;
 }
+    .botao: first-child {
+        border-radius: 40px 40px 00;
+    }
+.botoes{
+    display:block;
+}
+    @media screen and (mim-width:768px) {
+        .botoes{
+            display:flex;
+        }
+        .botao: first-child {
+        border-radius: 40px 40px 00;
+    }
+        }
+        .botao:firts-child:{
+            border-radius:40px 40px 00;
